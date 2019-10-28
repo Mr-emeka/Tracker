@@ -1,4 +1,6 @@
-const baseUrl = 'http://localhost:8080/api/v1';
+// const baseUrl = 'http://localhost:8080/api/v1';
+const baseUrl = 'https://maintenance-tracker-pro.herokuapp.com/api/v1';
+
 const adminPage = document.getElementById('admin-page');
 const userRequestDash = document.querySelector('.admin-request-dash');
 const adminPreviewPanel = document.querySelector('.admin-preview');

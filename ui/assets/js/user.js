@@ -1,4 +1,5 @@
-const baseUrl = 'http://localhost:8080/api/v1';
+// const baseUrl = 'http://localhost:8080/api/v1';
+const baseUrl = 'https://maintenance-tracker-pro.herokuapp.com/api/v1';
 const userPage = document.getElementById('user-page');
 const requestdash = document.querySelector('.user-request-dash');
 const requestForm = document.querySelector('.request-form');

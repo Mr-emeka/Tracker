@@ -1,5 +1,6 @@
-// const baseUrl = 'https://my-maintenance-tracker.herokuapp.com/api/v1';
-const baseUrl = 'http://localhost:8080/api/v1';
+// const baseUrl = 'http://localhost:8080/api/v1';
+const baseUrl = 'https://maintenance-tracker-pro.herokuapp.com/api/v1';
+
 const formSignup = document.getElementById('signup-form');
 const formLogin = document.getElementById('login-form');
 
